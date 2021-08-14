@@ -313,7 +313,8 @@ ol {
 @media screen and (min-width: 800px) {
   .main {
     display: flex;
-
+    border: solid 3px #535353;
+    border-radius: 5px;
     width: 845px;
     margin: 0 auto;
   }
